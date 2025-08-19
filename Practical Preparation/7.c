@@ -49,6 +49,5 @@ void main() {
     printf("\n\nPrinting the elements of resultant matrix:\n");
     printMatrix(result);
 
-
     // getch();
 }

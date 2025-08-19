@@ -51,6 +51,5 @@ void main() {
         printf("\nWeight: %0.2f", arr[i].weight);
     }
 
-
     // getch();
 }

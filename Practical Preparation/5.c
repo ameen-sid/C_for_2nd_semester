@@ -6,9 +6,9 @@ void main() {
     // clrscr();
 
     int arr[2][2] = {
-                        {1, 2},
-                        {3, 4}
-                    };
+        {1, 2},
+        {3, 4}
+    };
     int sum = 0;
 
     printf("Printing the elements of 2x2 array:\n");

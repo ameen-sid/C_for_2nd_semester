@@ -19,6 +19,5 @@ void main() {
 
     printf("The no of vowels in the string is %d", count);
 
-
     // getch();
 }

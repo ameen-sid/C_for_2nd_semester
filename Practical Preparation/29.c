@@ -15,6 +15,5 @@ void main() {
     printf("\nString in lowercase: %s", strlwr(str));
     printf("\nString in uppercase: %s", strupr(str));
 
-
     // getch();
 }

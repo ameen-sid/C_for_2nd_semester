@@ -45,6 +45,5 @@ void main() {
     printf("\nHeight: %0.2f", s1.height);
     printf("\nWeight: %0.2f", s1.weight);
 
-
     // getch();
 }
